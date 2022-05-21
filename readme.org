@@ -1,0 +1,8 @@
+#+TITLE: BALIQIAO
+#+AUTHOR: Jinghui Hu
+#+EMAIL: hujinghui@buaa.edu.cn
+#+DATE: <2022-05-15 Sun 23:29:58>
+
+
+* 项目说明
+八里桥 (BALIQIAO) 是一个用于学习的 Golang 的 Web 后端项目
