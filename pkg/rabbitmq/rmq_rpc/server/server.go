@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/evrone/go-clean-template/pkg/logger"
-	rmqrpc "github.com/evrone/go-clean-template/pkg/rabbitmq/rmq_rpc"
+	"github.com/Jeanhwea/baliqiao/pkg/logger"
+	rmqrpc "github.com/Jeanhwea/baliqiao/pkg/rabbitmq/rmq_rpc"
 	"github.com/streadway/amqp"
 )
 

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	. "github.com/Eun/go-hit"
-	"github.com/evrone/go-clean-template/pkg/rabbitmq/rmq_rpc/client"
+	"github.com/Jeanhwea/baliqiao/pkg/rabbitmq/rmq_rpc/client"
 )
 
 const (

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/evrone/go-clean-template/internal/entity"
-	"github.com/evrone/go-clean-template/internal/usecase"
+	"github.com/Jeanhwea/baliqiao/internal/entity"
+	"github.com/Jeanhwea/baliqiao/internal/usecase"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/require"
 )

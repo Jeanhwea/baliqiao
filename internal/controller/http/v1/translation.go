@@ -3,9 +3,9 @@ package v1
 import (
 	"net/http"
 
-	"github.com/evrone/go-clean-template/internal/entity"
-	"github.com/evrone/go-clean-template/internal/usecase"
-	"github.com/evrone/go-clean-template/pkg/logger"
+	"github.com/Jeanhwea/baliqiao/internal/entity"
+	"github.com/Jeanhwea/baliqiao/internal/usecase"
+	"github.com/Jeanhwea/baliqiao/pkg/logger"
 	"github.com/gin-gonic/gin"
 )
 
@@ -31,7 +31,7 @@ type historyResponse struct {
 // @Summary     Show history
 // @Description Show all translation history
 // @ID          history
-// @Tags  	    translation
+// @Tags		translation
 // @Accept      json
 // @Produce     json
 // @Success     200 {object} historyResponse
@@ -58,7 +58,7 @@ type doTranslateRequest struct {
 // @Summary     Translate
 // @Description Translate a text
 // @ID          do-translate
-// @Tags  	    translation
+// @Tags		translation
 // @Accept      json
 // @Produce     json
 // @Param       request body doTranslateRequest true "Set up translation"

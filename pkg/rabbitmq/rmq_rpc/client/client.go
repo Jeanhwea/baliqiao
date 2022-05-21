@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	rmqrpc "github.com/evrone/go-clean-template/pkg/rabbitmq/rmq_rpc"
+	rmqrpc "github.com/Jeanhwea/baliqiao/pkg/rabbitmq/rmq_rpc"
 	"github.com/google/uuid"
 	"github.com/streadway/amqp"
 )
