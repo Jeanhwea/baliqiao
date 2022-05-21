@@ -1,6 +1,6 @@
 module github.com/evrone/go-clean-template
 
-go 1.16
+go 1.17
 
 require (
 	github.com/Conight/go-googletrans v0.0.0-20200929083318-176776d061cb
